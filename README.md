@@ -1,4 +1,4 @@
-# Appli_lieux_stage
+# carte_stages
 Application pour la recherche facilitée de stages
 
 Lien :
